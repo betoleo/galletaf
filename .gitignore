@@ -1,0 +1,5 @@
+#Ignorando modulos del backend
+#Del backend
+node_modules
+#Ignorando modulos frontend
+static/vendor
